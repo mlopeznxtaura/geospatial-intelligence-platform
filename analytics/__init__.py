@@ -1,0 +1,1 @@
+"""geospatial-intelligence-platform.analytics"""
